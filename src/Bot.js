@@ -1,0 +1,1 @@
+console.log("Le bot discord sera bientôt ready patience");
